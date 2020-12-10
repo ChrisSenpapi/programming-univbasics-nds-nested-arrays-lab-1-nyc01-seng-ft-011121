@@ -25,7 +25,8 @@ def sorted_matrix
  sorted_matrix = [
    ["Grapefruit",
    "Pineapple",
-   "Oranges",]
+   "Oranges",
+   ]
    ]
 end
 
