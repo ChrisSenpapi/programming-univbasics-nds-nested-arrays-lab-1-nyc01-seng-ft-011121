@@ -22,7 +22,8 @@ def assembled_matrix
 end
 
 def sorted_matrix
- sorted_matrix
+ sorted_matrix = [
+   ]
 end
 
 def matrix_lookup(matrix, row, column)
