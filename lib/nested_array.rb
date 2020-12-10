@@ -17,7 +17,8 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  assembled_matrix
+  
+  assembled_matrix = 
 
 def sorted_matrix
   # Using Array literal syntax only, build another nested array that 
