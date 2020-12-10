@@ -23,7 +23,8 @@ end
 
 def sorted_matrix
  sorted_matrix = [
-   ["Grapefruit"]
+   ["Grapefruit",
+   ]
    ]
 end
 
