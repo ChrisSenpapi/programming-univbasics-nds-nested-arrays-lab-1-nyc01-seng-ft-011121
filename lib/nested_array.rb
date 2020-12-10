@@ -29,6 +29,7 @@ def sorted_matrix
    "Watermelon",
    "Eggplant"].sort,
    ["Strawberries",
+   "Potatoes",
    ]
    ]
 end
