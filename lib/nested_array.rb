@@ -30,7 +30,7 @@ def sorted_matrix
    "Eggplant"].sort,
    ["Strawberries",
    "Potatoes",
-   ]
+   "Grapes"]
    ]
 end
 
